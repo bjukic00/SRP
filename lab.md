@@ -152,7 +152,7 @@ Fernet koristi sljedeće *low-level* kriptografske mehanizme:
 💡 $ pip install cryptography
 
 </aside>
-<b>
+<br/>
 <aside>
 💡 $ python
 
